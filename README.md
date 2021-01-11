@@ -10,9 +10,8 @@
 5일차 : 웹스크래핑(csv,xml,json 타입 처리), 데이터 분석
 ```
 
-
-
-#### python 이론
+---
+### python 이론
 
 1. 파이썬 개요 및 설치 
 2. 숫자 다루기 
@@ -33,11 +32,12 @@
 17. XML과 JSON 
 18. 날짜 다루기, 스케줄링 
 
+---
 
 
-#### web scraping & data analysis
+### web scraping & data analysis
 
->  /webscraping_soruce
+>  /webscrap_soruce
 
 1. Nhn_뉴스제목추출_번역API_웹툰이미지
 2. 기상청날씨데이터추출
@@ -46,3 +46,5 @@
 5. 국회의원현황_스크래핑_분석_시각화_저장
 6. 서울시내_따릉이_분석
 7. Pymysql과MariaDB연동
+
+---
